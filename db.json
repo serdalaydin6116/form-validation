@@ -19,22 +19,16 @@
       "id": 3
     },
     {
-      "text": "Clean Room",
-      "day": "Feb 7th at 10:00pm",
+      "text": "cicekleri sulama",
+      "day": "pazar/14:00",
       "isDone": false,
-      "id": 4
+      "id": 7
     },
     {
-      "text": "dfghjkl",
-      "day": "11:30",
+      "text": "alışveriş yapma",
+      "day": "pazar / 17:00",
       "isDone": false,
-      "id": 5
-    },
-    {
-      "text": "werty",
-      "day": "09:45",
-      "isDone": false,
-      "id": 6
+      "id": 8
     }
   ]
 }
